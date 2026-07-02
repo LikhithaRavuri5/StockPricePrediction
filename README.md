@@ -94,18 +94,7 @@ Compares real stock prices with ML model predictions to visualize accuracy.
 
 ---
 
-## 👩‍💻 Author
 
-**Likhitha Ravuri**  
-IT Student | Vishnu Institute of Technology  
-GitHub: [@LikhithaRavuri5](https://github.com/LikhithaRavuri5)
-Press Ctrl + S
-Then push to GitHub:
-git add .
-git commit -m "Add README file"
-git push
-Tell me once done! 😊
----
 
 ## 🛠️ Tech Stack
 
