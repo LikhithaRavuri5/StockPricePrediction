@@ -118,18 +118,7 @@ Tell me once done! 😊
 
 ---
 
-## 📁 Project Structure
 
----
-StockPricePrediction/
-│
-├── data_loader.py      # Downloads and cleans stock data
-├── visualizer.py       # Draws price history and prediction graphs
-├── model.py            # Trains ML model and predicts prices
-├── main.py             # Runs complete pipeline end to end
-└── requirements.txt    # Required Python libraries
-
----
 
 ## ⚙️ How To Run
 
