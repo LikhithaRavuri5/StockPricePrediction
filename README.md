@@ -17,9 +17,11 @@ Enter any stock symbol → System automatically:
 ---
 ## 📊 Sample Output
 
-```
-==================================================
-```
+
+![Stock Price History](TSLA_price_history.png)
+
+![Actual vs Predicted](TSLA_predictions.png)
+
 
 ## 🛠️ Tech Stack
 
